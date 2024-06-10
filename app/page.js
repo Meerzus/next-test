@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        {console.log(process.env.NEXT_PUBLIC_URL)}
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.js</code>
