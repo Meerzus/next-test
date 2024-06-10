@@ -6,5 +6,6 @@ export async function GET(){
         query: '',
         values: []
     })
+
     return NextResponse.json({name: 'query testing'})
 }
