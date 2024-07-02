@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3189b370-b89c-4c6c-9389-efde68352191" name="Changes" comment="- db connect (failed)">
-      <change afterPath="$PROJECT_DIR$/components/Appliances/Appliances.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/api/testing/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/api/testing/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +83,10 @@
       <workItem from="1718220345457" duration="13000" />
       <workItem from="1718449487526" duration="3149000" />
       <workItem from="1718532900625" duration="2280000" />
+      <workItem from="1718615822263" duration="444000" />
+      <workItem from="1719660939470" duration="615000" />
+      <workItem from="1719741752632" duration="2354000" />
+      <workItem from="1719939366247" duration="2859000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
